@@ -1,0 +1,24 @@
+{
+  "name": "API-from-scratches",
+  "version": "1.0.0",
+  "description": "Build your API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-kracha/API-from-scratches.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brian-kracha/API-from-scratches/issues"
+  },
+  "homepage": "https://github.com/brian-kracha/API-from-scratches#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "uuid": "^3.1.0"
+  }
+}
